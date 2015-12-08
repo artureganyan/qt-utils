@@ -1,0 +1,8 @@
+.*
+Makefile*
+*.user
+/release
+/debug
+/misc
+
+!.gitignore
